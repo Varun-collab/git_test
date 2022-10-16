@@ -4,3 +4,4 @@ seaborn
 matplotlib
 nltk
 spacy
+scipy
